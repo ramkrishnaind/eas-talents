@@ -27,7 +27,7 @@ import { YourJobsComponent } from "./your-jobs/your-jobs.component";
 
 const routes: Routes = [
   {
-    path: "index",
+    path: "",
     component: IndexComponent,
   },
   {
